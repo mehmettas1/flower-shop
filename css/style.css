@@ -29,6 +29,19 @@ section {
     padding: 2rem 9%;
 
 }
+.btn{
+    display: inline-block;
+    margin-top: 1rem;
+    border-radius: 5rem;
+    background: #333;
+    color: #fff;
+    padding: .9rem 3.5rem;
+    cursor: pointer;
+    font-size: 1.7rem;
+}
+
+
+/* BURADADA KALDIM BUTONUNUN HOVERINDA  DAKİKA 13,45 */
 
 header{
     position: fixed;
@@ -104,6 +117,34 @@ header .fa-bars{
     background: url(../images/home-bg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
+}
+
+
+.homer .content {
+    max-width: 50rem;
+
+}
+
+
+.homer .content h3 {
+    font-size: 6rem;
+    color: #333;
+ 
+}
+
+
+.homer .content span {
+    font-size: 3.5rem;
+    color:var(--pink);
+    padding: 1rem 0;
+    line-height: 1.5rem;
+}
+
+.homer .content span {
+    font-size: 3.5rem;
+    color:#9999;
+    padding: 1rem 0;
+    line-height: 1.5rem;
 }
 
 

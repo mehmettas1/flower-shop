@@ -197,10 +197,10 @@ header .fa-bars{
     transform: translate(-50%);
     font-size: 3rem;
     background: #fff;
-      width:100%;
-      padding: 1rem 2rem;
-      text-align: center;
-      mix-blend-mode: screen;
+    width:100%;
+    padding: 1rem 2rem;
+    text-align: center;
+    mix-blend-mode: screen;
 }
 
 .about .row .content{
@@ -208,8 +208,21 @@ header .fa-bars{
 }
 
 
+.about .row .content h3{
+   font-size: 3rem;
+   color: #333;
+
+}
 
 
+
+.about .row .content p{
+    font-size: 1.5rem;
+    color:#999;
+    padding:.5rem 0;
+    padding-top: 1rem;
+    line-height: 1.5;
+}
 
 
 

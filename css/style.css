@@ -40,8 +40,11 @@ section {
     font-size: 1.7rem;
 }
 
+.btn:hover{
+    background: var(--pink);
+    
+}
 
-/* BURADADA KALDIM BUTONUNUN HOVERINDA  DAKİKA 13,45 */
 
 header{
     position: fixed;

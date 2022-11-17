@@ -248,10 +248,20 @@ header .fa-bars{
 
 }
 
-.icons-container .icons 
+.icons-container .icons h3{
+    color: #333;
+    padding-bottom: .5rem;
+    font-size: 1.5rem;
+}
 
 
-burada kaldım dakika 21,20
+.icons-container .icons span{
+    color: #555;
+    font-size: 1.3rem;
+}
+
+
+
 
 
 
